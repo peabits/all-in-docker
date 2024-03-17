@@ -1,2 +1,1 @@
-# all-in-docker
-Docker is All You Need
+# Docker is All You Need
